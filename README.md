@@ -15,7 +15,7 @@ You'll also need a 0805 10uF and a 0603 .1uF smd capacitors and a 0603 10K Resis
 # Front and Back PCB Preview
 
 ![Front PCB Design](v01.png?raw=true "Front PCB, Aperture is highlighted by arrow")
-The arrow points to where the hole for the mic goes.
+>The arrow points to where the hole for the mic goes.
 
 ![Back PCB Design](v01_back.png?raw=true "Back PCB, Jumper to select LEFT or RIGHT")
-Bridge the S and G pad before using and bridge all three (S, G, V) if using module as RIGHT for stereo.
+>Bridge the S and G pad before using and bridge all three (S, G, V) if using module as RIGHT for stereo.
